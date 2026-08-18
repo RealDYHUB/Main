@@ -1,1 +1,1 @@
- # https://loader-dyhub.lovable.app/
+ # https://api-loader.lovable.app/
